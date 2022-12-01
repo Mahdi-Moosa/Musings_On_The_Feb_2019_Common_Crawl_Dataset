@@ -6,4 +6,4 @@ Summary of Feb 2019 Common Crawl Snapshot is from:
 * https://arxiv.org/abs/1911.00359
 
 Crossponding blog post:
-https://www.musings.mahdi-moosa.me/2022/12/languages-of-internet-musings-on-feb.html
+* https://www.musings.mahdi-moosa.me/2022/12/languages-of-internet-musings-on-feb.html
