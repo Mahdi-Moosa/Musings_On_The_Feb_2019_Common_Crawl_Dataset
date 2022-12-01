@@ -1,0 +1,184 @@
+,ISO language name,639-1,639-2/T,639-2/B,639-3,Notes
+0,Abkhazian,ab,abk,abk,abk,also known as Abkhaz
+1,Afar,aa,aar,aar,aar,
+2,Afrikaans,af,afr,afr,afr,
+3,Akan,ak,aka,aka,aka + 2,"macrolanguage, Twi is tw/twi, Fanti is fat"
+4,Albanian,sq,sqi,alb,sqi + 4,"macrolanguage, called ""Albanian Phylozone"" in 639-6"
+5,Amharic,am,amh,amh,amh,
+6,Arabic,ar,ara,ara,ara + 29,"macrolanguage, Standard Arabic is arb"
+7,Aragonese,an,arg,arg,arg,
+8,Armenian,hy,hye,arm,hye,"ISO 639-3 code hye is for Eastern Armenian, hyw is for Western Armenian, and xcl is for Classical Armenian"
+9,Assamese,as,asm,asm,asm,
+10,Avaric,av,ava,ava,ava,also known as Avar
+11,Avestan,ae,ave,ave,ave,ancient
+12,Aymara,ay,aym,aym,aym + 2,macrolanguage
+13,Azerbaijani,az,aze,aze,aze + 2,"macrolanguage, also known as Azeri"
+14,Bambara,bm,bam,bam,bam,
+15,Bashkir,ba,bak,bak,bak,
+16,Basque,eu,eus,baq,eus,
+17,Belarusian,be,bel,bel,bel,
+18,Bengali,bn,ben,ben,ben,also known as Bangla
+19,Bislama,bi,bis,bis,bis,"Language formed from English and Vanuatuan languages, with some French influence."
+20,Bosnian,bs,bos,bos,bos,
+21,Breton,br,bre,bre,bre,
+22,Bulgarian,bg,bul,bul,bul,
+23,Burmese,my,mya,bur,mya,also known as Myanmar
+24,"Catalan, Valencian",ca,cat,cat,cat,
+25,Chamorro,ch,cha,cha,cha,
+26,Chechen,ce,che,che,che,
+27,"Chichewa, Chewa, Nyanja",ny,nya,nya,nya,
+28,Chinese,zh,zho,chi,zho + 16,macrolanguage
+29,"Church Slavonic, Old Slavonic, Old Church Slavonic",cu,chu,chu,chu,"ancient, in use by the Eastern Orthodox Church"
+30,Chuvash,cv,chv,chv,chv,
+31,Cornish,kw,cor,cor,cor,
+32,Corsican,co,cos,cos,cos,
+33,Cree,cr,cre,cre,cre + 6,macrolanguage
+34,Croatian,hr,hrv,hrv,hrv,
+35,Czech,cs,ces,cze,ces,
+36,Danish,da,dan,dan,dan,
+37,"Divehi, Dhivehi, Maldivian",dv,div,div,div,
+38,"Dutch, Flemish",nl,nld,dut,nld,"Flemish is not to be confused with the closely related West Flemish which is referred to as Vlaams (Dutch for ""Flemish"") in ISO 639-3 and has the ISO 639-3 code vls"
+39,Dzongkha,dz,dzo,dzo,dzo,
+40,English,en,eng,eng,eng,
+41,Esperanto,eo,epo,epo,epo,"constructed, initially by L.L. Zamenhof in 1887"
+42,Estonian,et,est,est,est + 2,macrolanguage
+43,Ewe,ee,ewe,ewe,ewe,
+44,Faroese,fo,fao,fao,fao,
+45,Fijian,fj,fij,fij,fij,
+46,Finnish,fi,fin,fin,fin,
+47,French,fr,fra,fre,fra,
+48,Western Frisian,fy,fry,fry,fry,also known as Frisian
+49,Fulah,ff,ful,ful,ful + 9,"macrolanguage, also known as Fula"
+50,"Gaelic, Scottish Gaelic",gd,gla,gla,gla,
+51,Galician,gl,glg,glg,glg,
+52,Ganda,lg,lug,lug,lug,
+53,Georgian,ka,kat,geo,kat,
+54,German,de,deu,ger,deu,
+55,"Greek, Modern (1453–)",el,ell,gre,ell,"for Ancient Greek, use the ISO 639-3 code grc"
+56,"Kalaallisut, Greenlandic",kl,kal,kal,kal,
+57,Guarani,gn,grn,grn,grn + 5,macrolanguage
+58,Gujarati,gu,guj,guj,guj,
+59,"Haitian, Haitian Creole",ht,hat,hat,hat,
+60,Hausa,ha,hau,hau,hau,
+61,Hebrew,he,heb,heb,heb,"Modern Hebrew. Code changed in 1989 from original ISO 639:1988, iw.[1]"
+62,Herero,hz,her,her,her,
+63,Hindi,hi,hin,hin,hin,
+64,Hiri Motu,ho,hmo,hmo,hmo,
+65,Hungarian,hu,hun,hun,hun,
+66,Icelandic,is,isl,ice,isl,
+67,Ido,io,ido,ido,ido,"constructed by De Beaufront, 1907, as variation of Esperanto"
+68,Igbo,ig,ibo,ibo,ibo,
+69,Indonesian,id,ind,ind,ind,"covered by macrolanguage ms/msa. Changed in 1989 from original ISO 639:1988, in.[1]"
+70,Interlingua (International Auxiliary Language Association),ia,ina,ina,ina,constructed by the International Auxiliary Language Association
+71,"Interlingue, Occidental",ie,ile,ile,ile,"constructed by Edgar de Wahl, first published in 1922"
+72,Inuktitut,iu,iku,iku,iku + 2,macrolanguage
+73,Inupiaq,ik,ipk,ipk,ipk + 2,macrolanguage
+74,Irish,ga,gle,gle,gle,
+75,Italian,it,ita,ita,ita,
+76,Japanese,ja,jpn,jpn,jpn,
+77,Javanese,jv,jav,jav,jav,
+78,Kannada,kn,kan,kan,kan,
+79,Kanuri,kr,kau,kau,kau + 3,macrolanguage
+80,Kashmiri,ks,kas,kas,kas,
+81,Kazakh,kk,kaz,kaz,kaz,
+82,Central Khmer,km,khm,khm,khm,also known as Khmer or Cambodian
+83,"Kikuyu, Gikuyu",ki,kik,kik,kik,
+84,Kinyarwanda,rw,kin,kin,kin,
+85,"Kirghiz, Kyrgyz",ky,kir,kir,kir,
+86,Komi,kv,kom,kom,kom + 2,macrolanguage
+87,Kongo,kg,kon,kon,kon + 3,macrolanguage
+88,Korean,ko,kor,kor,kor,
+89,"Kuanyama, Kwanyama",kj,kua,kua,kua,
+90,Kurdish,ku,kur,kur,kur + 3,macrolanguage
+91,Lao,lo,lao,lao,lao,
+92,Latin,la,lat,lat,lat,ancient
+93,Latvian,lv,lav,lav,lav + 2,macrolanguage
+94,"Limburgan, Limburger, Limburgish",li,lim,lim,lim,
+95,Lingala,ln,lin,lin,lin,
+96,Lithuanian,lt,lit,lit,lit,
+97,Luba-Katanga,lu,lub,lub,lub,also known as Luba-Shaba
+98,"Luxembourgish, Letzeburgesch",lb,ltz,ltz,ltz,
+99,Macedonian,mk,mkd,mac,mkd,
+100,Malagasy,mg,mlg,mlg,mlg + 11,macrolanguage
+101,Malay,ms,msa,may,msa + 36,"macrolanguage, Standard Malay is zsm, Indonesian is id/ind"
+102,Malayalam,ml,mal,mal,mal,
+103,Maltese,mt,mlt,mlt,mlt,
+104,Manx,gv,glv,glv,glv,
+105,Maori,mi,mri,mao,mri,also known as Māori
+106,Marathi,mr,mar,mar,mar,also known as Marāṭhī
+107,Marshallese,mh,mah,mah,mah,
+108,Mongolian,mn,mon,mon,mon + 2,macrolanguage
+109,Nauru,na,nau,nau,nau,also known as Nauruan
+110,"Navajo, Navaho",nv,nav,nav,nav,
+111,North Ndebele,nd,nde,nde,nde,also known as Northern Ndebele
+112,South Ndebele,nr,nbl,nbl,nbl,also known as Southern Ndebele
+113,Ndonga,ng,ndo,ndo,ndo,
+114,Nepali,ne,nep,nep,nep + 2,macrolanguage
+115,Norwegian,no,nor,nor,nor + 2,"macrolanguage, Bokmål is nb/nob, Nynorsk is nn/nno"
+116,Norwegian Bokmål,nb,nob,nob,nob,covered by macrolanguage no/nor
+117,Norwegian Nynorsk,nn,nno,nno,nno,covered by macrolanguage no/nor
+118,"Sichuan Yi, Nuosu",ii,iii,iii,iii,standard form of the Yi languages
+119,Occitan,oc,oci,oci,oci,
+120,Ojibwa,oj,oji,oji,oji + 7,"macrolanguage, also known as Ojibwe"
+121,Oriya,or,ori,ori,ori + 2,"macrolanguage, also known as Odia"
+122,Oromo,om,orm,orm,orm + 4,macrolanguage
+123,"Ossetian, Ossetic",os,oss,oss,oss,
+124,Pali,pi,pli,pli,pli,"ancient, also known as Pāli"
+125,"Pashto, Pushto",ps,pus,pus,pus + 3,macrolanguage
+126,Persian,fa,fas,per,fas + 2,"macrolanguage, also known as Farsi"
+127,Polish,pl,pol,pol,pol,
+128,Portuguese,pt,por,por,por,
+129,"Punjabi, Panjabi",pa,pan,pan,pan,
+130,Quechua,qu,que,que,que + 43,macrolanguage
+131,"Romanian, Moldavian, Moldovan",ro,ron,rum,ron,"the identifiers mo and mol for Moldavian are deprecated. They will not be assigned to different items, and recordings using these identifiers will not be invalid."
+132,Romansh,rm,roh,roh,roh,
+133,Rundi,rn,run,run,run,also known as Kirundi
+134,Russian,ru,rus,rus,rus,
+135,Northern Sami,se,sme,sme,sme,
+136,Samoan,sm,smo,smo,smo,
+137,Sango,sg,sag,sag,sag,
+138,Sanskrit,sa,san,san,san,ancient
+139,Sardinian,sc,srd,srd,srd + 4,macrolanguage
+140,Serbian,sr,srp,srp,srp,the ISO 639-2/T code srp deprecated the ISO 639-2/B code scc[2]
+141,Shona,sn,sna,sna,sna,
+142,Sindhi,sd,snd,snd,snd,
+143,"Sinhala, Sinhalese",si,sin,sin,sin,
+144,Slovak,sk,slk,slo,slk,
+145,Slovenian,sl,slv,slv,slv,also known as Slovene
+146,Somali,so,som,som,som,
+147,Southern Sotho,st,sot,sot,sot,
+148,"Spanish, Castilian",es,spa,spa,spa,
+149,Sundanese,su,sun,sun,sun,
+150,Swahili,sw,swa,swa,swa + 2,macrolanguage
+151,Swati,ss,ssw,ssw,ssw,also known as Swazi
+152,Swedish,sv,swe,swe,swe,
+153,Tagalog,tl,tgl,tgl,tgl,note: Filipino (Pilipino) has the code fil
+154,Tahitian,ty,tah,tah,tah,one of the Reo Mā`ohi (languages of French Polynesia)[3]
+155,Tajik,tg,tgk,tgk,tgk,
+156,Tamil,ta,tam,tam,tam,
+157,Tatar,tt,tat,tat,tat,
+158,Telugu,te,tel,tel,tel,
+159,Thai,th,tha,tha,tha,
+160,Tibetan,bo,bod,tib,bod,also known as Standard Tibetan
+161,Tigrinya,ti,tir,tir,tir,
+162,Tonga (Tonga Islands),to,ton,ton,ton,also known as Tongan
+163,Tsonga,ts,tso,tso,tso,
+164,Tswana,tn,tsn,tsn,tsn,
+165,Turkish,tr,tur,tur,tur,
+166,Turkmen,tk,tuk,tuk,tuk,
+167,Twi,tw,twi,twi,twi,covered by macrolanguage ak/aka
+168,"Uighur, Uyghur",ug,uig,uig,uig,
+169,Ukrainian,uk,ukr,ukr,ukr,
+170,Urdu,ur,urd,urd,urd,
+171,Uzbek,uz,uzb,uzb,uzb + 2,macrolanguage
+172,Venda,ve,ven,ven,ven,
+173,Vietnamese,vi,vie,vie,vie,
+174,Volapük,vo,vol,vol,vol,constructed
+175,Walloon,wa,wln,wln,wln,
+176,Welsh,cy,cym,wel,cym,
+177,Wolof,wo,wol,wol,wol,
+178,Xhosa,xh,xho,xho,xho,
+179,Yiddish,yi,yid,yid,yid + 2,"macrolanguage. Changed in 1989 from original ISO 639:1988, ji.[1]"
+180,Yoruba,yo,yor,yor,yor,
+181,"Zhuang, Chuang",za,zha,zha,zha + 16,macrolanguage
+182,Zulu,zu,zul,zul,zul,
